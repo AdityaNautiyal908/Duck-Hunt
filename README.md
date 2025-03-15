@@ -31,8 +31,3 @@ this game looks and sounds then you'll need to work with audio and image sprites
  - To rebuild audio assets use `npm run audio` (there is a hard dependency on [ffmpeg](https://ffmpeg.org/download.html) to run this task)
  - To rebuild image assets use `npm run images` (there is a hard dependency on [texturepacker](https://www.codeandweb.com/texturepacker/download) to run this task)
 
-## Bugs
-Please report bugs as [issues](https://github.com/MattSurabian/DuckHunt-JS/issues).
-
-## Contributing
-Pull requests are welcome! Please ensure code style and quality compliance with `npm run lint` and include any built files.
